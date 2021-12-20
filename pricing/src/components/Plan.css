@@ -1,0 +1,76 @@
+:root {
+  --black: rgb(24, 24, 24);
+  --green: rgb(22, 49, 16);
+  --lightBlue: rgb(66, 95, 128);
+  --red: rgb(255, 87, 87);
+}
+
+.black {
+  background-color: var(--black);
+}
+
+.green {
+  background-color: var(--green);
+}
+
+.lightBlue {
+  background-color: var(--lightBlue);
+}
+
+.red {
+  background-color: var(--red);
+}
+
+.plan {
+  width: 25%;
+  box-sizing: border-box;
+  border: 2px solid #fff;
+  text-align: center;
+  font-weight: 600;
+  display: flex;
+  flex-direction: column;
+  justify-content: stretch;
+  justify-items: center;
+}
+
+.header {
+  border-bottom: 1px solid #fff;
+  color: #fff;
+  padding: 25px;
+  font-size: 20px;
+}
+
+.bodyTop {
+  padding: 25px;
+  color: #fff;
+  font-size: 18px;
+  flex: 1;
+}
+
+.bodyTop span {
+  font-size: 40px;
+  font-weight: 800;
+}
+
+.bodyBottom {
+  padding: 25px;
+  background-color: rgb(236, 236, 236);
+  color: rgb(44, 44, 44);
+  font-size: 13px;
+}
+
+.footer {
+  padding: 25px;
+  background-color: rgb(194, 194, 194);
+  color: rgb(44, 44, 44);
+  font-size: 13px;
+}
+
+.highlighted {
+  box-shadow: rgba(128, 128, 128, 0.79) 0 0 8px;
+  align-self: stretch;
+}
+
+.highlighted .bodyTop {
+  padding-top: 35px;
+}
