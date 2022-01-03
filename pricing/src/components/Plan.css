@@ -22,6 +22,7 @@
 }
 
 .plan {
+  cursor: pointer;
   width: 25%;
   box-sizing: border-box;
   border: 2px solid #fff;
@@ -66,11 +67,11 @@
   font-size: 13px;
 }
 
-.highlighted {
+.selected {
   box-shadow: rgba(128, 128, 128, 0.79) 0 0 8px;
   align-self: stretch;
 }
 
-.highlighted .bodyTop {
+.selected .bodyTop {
   padding-top: 35px;
 }

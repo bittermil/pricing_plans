@@ -8,7 +8,7 @@ function PlanList() {
       <React.Fragment>
         <Plan color={"lightBlue"} price={300} speed={10}></Plan>
         <Plan color={"green"} price={450} speed={50}></Plan>
-        <Plan color={"red"} highlighted price={550} speed={100}></Plan>
+        <Plan color={"red"} price={550} speed={100}></Plan>
         <Plan color={"black"} price={1000} speed={1000}></Plan>
       </React.Fragment>
     </div>
