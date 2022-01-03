@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/pricing_plans/static/js/main.2e5f4ed2.js",
+    "static/js/529.e8bbfa67.chunk.js": "/pricing_plans/static/js/529.e8bbfa67.chunk.js",
+    "static/media/logo.svg": "/pricing_plans/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/pricing_plans/index.html",
+    "main.2e5f4ed2.js.map": "/pricing_plans/static/js/main.2e5f4ed2.js.map",
+    "529.e8bbfa67.chunk.js.map": "/pricing_plans/static/js/529.e8bbfa67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2e5f4ed2.js"
+  ]
+}
